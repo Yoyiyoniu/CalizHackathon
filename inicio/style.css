@@ -155,7 +155,7 @@ h1 {
     transform: scale(1.02); 
 }
 
-.content-section h2 {
+.content-section h2, .play-button {
     font-size: 20px;
     color: #fff; /* Verde claro */
     margin-bottom: 30px;
